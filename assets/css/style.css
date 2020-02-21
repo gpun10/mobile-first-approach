@@ -1,0 +1,45 @@
+
+.navbar {
+    background-color: #000;
+    opacity: 0.9;
+    max-width: 415px;
+  }
+  #albums img {
+    height: 150px;
+    margin: 5px;
+  }
+ 
+  #banner {
+    background: url("../images/albatross-banner.jpg") no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    z-index: 0;
+    margin-top: 0;
+    height: 50vh;
+  }
+
+  .spacer {
+    padding: 400px 0 0 0;
+  }
+  em>p {
+  color: white;
+  font-size: 1em;
+  text-align: justify;
+  border: none;
+  padding: 0px 10px 0px;
+  width: fit-content;
+    }
+#about p {
+  color: white;
+  font-size: 1.2em;
+  text-align: justify;
+  border-left: 2px solid white;
+  margin-top: 5px;
+  padding: 0px 10px 0px;
+
+}
+
+
+}
